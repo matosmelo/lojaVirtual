@@ -1,8 +1,0 @@
-*.classpath
-*.project
-build
-target
-.settings
-lib
-*.jar
-.git
