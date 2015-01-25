@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+fieldset {
+	background: white;
+	margin-top: 10px;
+	padding-right: 150px;
+	font-size: large;
+}
+
+legend {
+	font-size: x-large;
+}
+
+table {
+	width: 1000px;
+}
+
+table td {
+	border-bottom: 1px solid black;
+}
+
+table th,td {
+	font-size: 1.2em;
+	text-align: left;
+}

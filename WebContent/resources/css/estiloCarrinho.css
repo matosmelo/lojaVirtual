@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+fieldset {
+	background: white;
+	margin-top: 10px;
+}
+
+table {
+	width: 1000px;
+}
+
+table td {
+	border-bottom: 1px solid black;
+}
+
+table th,td {
+	font-size: 1.2em;
+	text-align: left;
+}
+
+#concluirCompra {
+	text-align: right;
+	padding-right: 230px;
+}
+
+#pagamento {
+	font-size: 25px;
+	text-align: right;
+	padding-right: 190px;
+}

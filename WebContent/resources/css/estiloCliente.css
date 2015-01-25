@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+#login {
+	background: white;
+	float: left;
+	margin-top: 10px;
+}
+
+legend {
+	font-size: xx-large;
+}
+
+fieldset {
+	background: white;
+	float: left;
+	margin-top: 10px;
+	margin-left: 350px;
+	padding-left: 150px;
+	padding-right: 150px;
+}

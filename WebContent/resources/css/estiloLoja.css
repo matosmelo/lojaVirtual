@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+#loja {
+	width: 900px;
+	height: 600px;
+	background-color: white;
+	margin-left: 150px;
+	margin-top: 10px;
+}
+
+#produtos {
+	margin-top: 10px;
+	position: relative;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+	float: left;
+}

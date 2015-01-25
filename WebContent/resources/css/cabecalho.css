@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+#cabecalho {
+	padding: 50px;
+	background-image: url("../imagem/cinzaEscuro.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+span {
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+
+#minhaConta,#carrinho,#usuario,#minhaConta a,#carrinho a,#usuario a {
+	text-align: right;
+	color: white;
+}
