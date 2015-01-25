@@ -4,6 +4,5 @@ build
 target
 .settings
 lib
-*.xml
 *.jar
-
+.git
